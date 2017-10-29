@@ -1,0 +1,39 @@
+body{
+  background:url("http://wallpaperpulse.com/img/1094955.jpg") no-repeat center center;
+ text-align:center;
+  height:800px;
+  width:100%;
+  background-size:cover;
+}
+.a{
+  color:darkblue;
+  font-weight:bold;
+  font-size:48px;
+  word-spacing:20px;
+  font-family:Algerian;
+  padding: 100px 100px 0px 100px;
+}
+img{height:100px;
+width:80%;}
+
+#quoteDisplay{
+  background:url("https://www.clipartsgram.com/image/2005912415-eevprew.jpg") no-repeat center center;
+  height:350px;
+  width:400px;
+  padding:100px 60px;
+  margin:auto;
+  
+  text-align:center;
+  font-family:"monotype corsiva";
+  font-size:24px;
+  font-weight:bold;
+  opacity:50%;
+  border-radius:10%;
+}
+.b{
+  margin:50px 50px;
+  text-align:center;
+}
+.show{
+  margin-right:50px;
+}
