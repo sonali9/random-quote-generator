@@ -1,8 +1,7 @@
 body{
   background:url("http://wallpaperpulse.com/img/1094955.jpg") no-repeat center center;
  text-align:center;
-  height:800px;
-  width:100%;
+  
   background-size:cover;
 }
 .a{
@@ -11,7 +10,7 @@ body{
   font-size:48px;
   word-spacing:20px;
   font-family:Algerian;
-  padding: 100px 100px 0px 100px;
+  
 }
 img{height:100px;
 width:80%;}
